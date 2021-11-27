@@ -1,6 +1,6 @@
 ---
 title: "Shiny Application and Reproducible Pitch"
-author: "Abinashi Prakash"
+author: "Khadija Shaikh"
 date: "6 June 2019"
 output: ioslides_presentation
 runtime: shiny
